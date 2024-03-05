@@ -1,3 +1,9 @@
+SOURCES:
+1) How to configure stanford pos tagger in python
+https://phitchuria.wordpress.com/2018/09/29/python-nltk-using-stanford-pos-tagger-in-nltk-on-windows/
+2) For Brill tagger
+https://www.nltk.org/api/nltk.tag.html
+
 Place the assignment-3.py file in the directory which contains the directory "A3DataCleaned" with all of the train and test .txt files.
 
 Run the program. It will generate 14 .txt files. The name of each file will specifiy the tagger type, either "hmm" or "brill," the data its trained on, 1 for Domain1, 2 for Domain2 and ELL for ELL, and the file it is tested on. These files will be generated in the same directory as the assignment-2.py file.
